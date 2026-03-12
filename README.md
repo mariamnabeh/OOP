@@ -1,6 +1,6 @@
 # OOP Learning Journey
 
-This repository documents my journey learning **Object-Oriented Programming (OOP)** with **Dr. Ahmed El-Shafie** at **Nile University**, along with some personal effort and exploration.
+This repository documents my journey learning **Object-Oriented Programming (OOP)** with **Dr. Ahmed El-Shafee** at **Nile University**, along with some personal effort and exploration.
 
 ## What this repository will include
 - The professor's code examples
