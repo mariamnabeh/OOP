@@ -12,7 +12,8 @@ The goal of this repository is to track my learning progress and share helpful m
 
 ## Resources:
 #### Dr. Ahmed El-Shafee :
-Reference :[2015] Gaddis - Starting Out with C++ - From Control Structures through Objects (Pearson, 8th Ed)
+Reference :[2015] Gaddis - Starting Out with C++ - From Control Structures through Objects (Pearson, 8th Ed)&& Hands-On
+Object-Oriented Programming
 
 #### Lecture 1:
 https://youtu.be/Ni3-9KMRmjE?si=1VNjkEaTRpE1-Ox5
