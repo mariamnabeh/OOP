@@ -24,7 +24,7 @@ https://youtu.be/MfQzyAZSXE8
 #### Eng Mohamed El Desouki (Full Course):
 https://www.youtube.com/watch?v=6U6WtWG3NrA&list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU
 
-##### Playlist Recommended by Dr. Ahmed
+<b><u>Playlist Recommended by Dr. Ahmed</u></b>
 #### Eng Ahmwd Sallem  (Full Course):
 https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE
 
