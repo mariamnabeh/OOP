@@ -1,32 +1,46 @@
-# OOP Learning Journey
+# OOP Learning Journey :)
 
-This repository documents my journey learning **Object-Oriented Programming (OOP)** with **Dr. Ahmed El-Shafee** at **Nile University**, along with some personal effort and exploration.
+This repository documents my journey learning **Object-Oriented Programming (OOP)** with **Dr. Ahmed El-Shafee** at **Nile University**, along with my own exploration and practice.
 
-## What this repository will include
-- The professor's code examples
-- My summaries and notes (Soon)
-- Additional useful resources
+---
 
+##  What this repository includes
+-  The professor's code examples  
+-  My summaries and notes *(coming soon)*  
+-  Additional useful resources  
+
+---
+
+## Goal
 The goal of this repository is to track my learning progress and share helpful materials for anyone interested in learning OOP.
 
+---
 
-## Resources:
-#### Dr. Ahmed El-Shafee :
-Reference :[2015] Gaddis - Starting Out with C++ - From Control Structures through Objects (Pearson, 8th Ed)&& Hands-On Object-Oriented Programming
+## 📚 Resources
 
-#### Lecture 1:
-https://youtu.be/Ni3-9KMRmjE?si=1VNjkEaTRpE1-Ox5
-#### Lecture 2:
-https://youtu.be/nUnO-zWvlQU
-#### Lecture 3(Pointers & Arrays):
-https://youtu.be/MfQzyAZSXE8
+### 👨‍🏫 Dr. Ahmed El-Shafee
+**References:**
+- *Starting Out with C++: From Control Structures through Objects (8th Edition)* – Tony Gaddis  
+- *Hands-On Object-Oriented Programming*
 
-#### Eng Mohamed El Desouki (Full Course):
-https://www.youtube.com/watch?v=6U6WtWG3NrA&list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU
+---
 
+###  Lectures
+- **Lecture 1:**  [Watch Video](https://youtu.be/Ni3-9KMRmjE?si=1VNjkEaTRpE1-Ox5)  
+- **Lecture 2:**  [Watch Video](https://youtu.be/nUnO-zWvlQU)  
+- **Lecture 3 (Pointers & Arrays):**  [Watch Video](https://youtu.be/MfQzyAZSXE8)  
+---
 
-<h3><b><u> Playlist Recommended by Dr. Ahmed</u></b></h3>
+### 💻 Full Courses
 
-#### 📚 Eng Ahmed Sallem (Full Course)
+#### 👨‍💻 Eng Mohamed El Desouki  
+ [Watch Playlist](https://www.youtube.com/watch?v=6U6WtWG3NrA&list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+
+---
+
+<h3><b><u>  Playlist Recommended by Dr. Ahmed</u></b></h3>
+
+#### 👨‍💻  Eng Ahmed Sallem (Full Course)  
  [Watch Playlist](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE)
 
+---
