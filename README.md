@@ -4,7 +4,7 @@ This repository documents my journey learning **Object-Oriented Programming (OOP
 
 ## What this repository will include
 - The professor's code examples
-- My summaries and notes
+- My summaries and notes (Soon)
 - Additional useful resources
 
 The goal of this repository is to track my learning progress and share helpful materials for anyone interested in learning OOP.
@@ -18,8 +18,12 @@ Reference :[2015] Gaddis - Starting Out with C++ - From Control Structures throu
 https://youtu.be/Ni3-9KMRmjE?si=1VNjkEaTRpE1-Ox5
 #### Lecture 2:
 https://youtu.be/nUnO-zWvlQU
+#### Lecture 3(Pointers & Arrays):
+https://youtu.be/MfQzyAZSXE8
 
 #### Eng Mohamed El Desouki (Full Course):
 https://www.youtube.com/watch?v=6U6WtWG3NrA&list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU
 
+#### Eng Ahmwd Sallem  (Full Course):
+https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE
 
