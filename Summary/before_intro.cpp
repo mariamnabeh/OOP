@@ -67,5 +67,66 @@ To fully master OOP, you need to understand its four pillars:
 4. Abstraction (Hiding complexity and showing essentials)
 */
 
+
+/*
+To fully master OOP, you need to understand its four pillars. Let's see!
+
+
+Pillar 1: Abstraction
+• What is it? 
+  Focusing on "WHAT" an object does rather than "HOW" it does it. It captures general 
+  characteristics without suffocating you with the internal implementation details. 
+• Simple Example: 
+  Using the pow(x, y) function. You pass the inputs and get the result without needing 
+  to look at its underlying mathematical source code. Wow!
+
+
+Pillar 2: Encapsulation & Data Hiding
+• What is it? 
+  - Encapsulation: Bundling data attributes and member functions together into one single class.
+  - Data Hiding: Making attributes "private" so they cannot be accessed or corrupted directly 
+    from outside the class. :( 
+• Simple Example: 
+  A secure digital vault. The raw data is hidden inside, and you can only interact 
+  with it safely through verified public functions (Getters and Setters).
+
+
+Pillar 3: Inheritance
+• What is it? 
+  A design relationship where a new class inherits properties and behaviors from an 
+  existing class. It allows you to reuse code without repeating yourself!
+• Simple Example: 
+  If you have a base class "Vehicle", a derived class "Car" automatically inherits 
+  common traits like speed or fuel mechanics, but can still add its own unique features.
+
+
+Pillar 4: Polymorphism
+• What is it? 
+  Literally means "many forms". It allows different objects to respond to the exact 
+  same function call in their own specific way.
+• Simple Example: 
+  A generic "draw()" command. If called on a Circle object, it draws a circle; if called 
+  on a Square object, it draws a square. Same exact command, completely different behaviors!
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     return 0;
 }
