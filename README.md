@@ -21,7 +21,7 @@ The goal of this repository is to track my learning progress and share helpful m
 ## 📚 Resources
 **References:**
 - *Starting Out with C++: From Control Structures through Objects (8th Edition)* – Tony Gaddis *(main textbook used by the professor)*  
-- *Hands-On Object-Oriented Programming*
+
 
 ---
 
