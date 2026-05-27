@@ -6,7 +6,7 @@ This repository documents my journey learning **Object-Oriented Programming (OOP
 
 ##  What this repository includes
 -  The professor's code examples  
--  My summaries and notes 
+-  My summaries and notes (I’ll complete it soon!)
 - Lecture Slides
 -  Additional useful resources  
 
