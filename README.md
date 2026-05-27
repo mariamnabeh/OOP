@@ -30,7 +30,6 @@ The goal of this repository is to track my learning progress and share helpful m
 - **Lecture 2:**  [Watch Video](https://youtu.be/nUnO-zWvlQU)  
 - **Lecture 3 (Pointers & Arrays):**  [Watch Video](https://youtu.be/MfQzyAZSXE8)
 -  **Lecture 4 (Not Recorded)**
--  
  **Lecture 5 -Part One (Linkedlist):**  [Watch Video](https://youtu.be/Bou71aQMh9U?si=iPdy4IB40ff4ThEC) 
  **Lecture 5 -Part Two (Sorting & Searching):**  [Watch Video](https://youtu.be/oyrDp5sGbSE?si=--nrpVXSzcItDSru)  
  
