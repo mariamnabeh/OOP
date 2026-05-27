@@ -8,7 +8,8 @@ using namespace std;
 The last thing we talked about was what classes, objects, and the Abstraction concept are.
 
 Today we will talk about OOP analysis and design!
-YOU MUST LEARN HOW to use OOP to design your system, how to break down your system into classes, and what a class usually contains. How can I save more data, and wait, I heard about a thing called "Friend of class," what is it?
+YOU MUST LEARN HOW to use OOP to design your system, how to break down your system into classes, and what a class usually contains. 
+How can I save more data, and wait, I heard about a thing called "Friend of class," what is it?
 Yes bro, classes have friends and you are still alone :(
 
 Don't be sad, we are friends in this journey, let's goooo. Enjoy!!!
